@@ -3,7 +3,6 @@ import java.io.*;
 
 /**
  * this class make a NB Model which has the probability attributes
- * @author Jinglin Li (jxl163530)
  *
  */
 
