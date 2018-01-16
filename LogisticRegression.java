@@ -3,7 +3,6 @@ import java.io.*;
 
 /**
  * this class train the data and classify the test file by logistic regression classifier
- * @author Jinglin Li (jxl163530)
  *
  */
 public class LogisticRegression{
