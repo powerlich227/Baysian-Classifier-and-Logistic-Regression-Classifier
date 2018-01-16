@@ -4,7 +4,6 @@ import java.io.*;
 /**
  * This class contains the Stop Word Dictionary, which is used to increase the accuracy of the classifier. 
  * also contains a hashMap, which map the class to the word to number of word
- * @author Jinglin Li (jxl163530)
  *
  */
 
