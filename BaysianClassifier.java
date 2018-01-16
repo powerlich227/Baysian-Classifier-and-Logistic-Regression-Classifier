@@ -3,7 +3,6 @@ import java.io.*;
 
 /**
  * this class implement the Native Baysian, classify the test files and calculate the accuracy
- * @author Jinglin Li (jxl163530)
  *
  */
 
